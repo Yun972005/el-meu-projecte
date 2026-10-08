@@ -1,0 +1,58 @@
+site_name: PlantCare
+site_description: L'app que cuida les teues plantes
+site_author: Pau Vidal
+site_url: https://yun972005.github.io/el-meu-projecte/
+repo_url: https://github.com/Yun972005/el-meu-projecte
+repo_name: el-meu-projecte
+
+theme:
+  name: material
+  language: ca
+  palette:
+    - scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Canviar a mode fosc
+    - scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Canviar a mode clar
+  font:
+    text: Poppins
+    code: Fira Code
+  icon:
+    logo: material/leaf
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+    - toc.follow
+
+nav:
+  - Inici: index.md
+  - El projecte: projecte.md
+  - Funcionalitats: funcionalitats.md
+  - Contacte: contacte.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.mark
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.keys
+  - toc:
+      permalink: true
