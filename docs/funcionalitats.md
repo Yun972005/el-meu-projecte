@@ -6,19 +6,6 @@
 - **Rebre avisos** de reg i abonament
 - *Consultar* consells segons l'espècie
 
-## Exemple de recordatori
-
-Així guardem internament un recordatori (només per a curiosos):
-
-```python title="recordatori.py"
-planta = {
-    "nom": "Monstera",
-    "reg_cada_dies": 7,
-    "llum": "indirecta"
-}
-print(f"Regar {planta['nom']} cada {planta['reg_cada_dies']} dies")
-```
-
 ## Com començar
 
 1. Crea un compte.

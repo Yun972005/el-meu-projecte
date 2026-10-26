@@ -3,7 +3,7 @@
 ## Origen de la idea
 
 PlantCare va nàixer com a **projecte intermodular** del cicle formatiu de
-*Desenvolupament d'Aplicacions Web*. L'objectiu era resoldre un problema real
+*Desenvolupament d'Aplicacions Multimedia*. L'objectiu era resoldre un problema real
 i quotidià.
 
 ## Objectius
@@ -16,9 +16,9 @@ i quotidià.
 
 | Tecnologia | Per a què serveix        |
 |------------|--------------------------|
-| HTML i CSS | Disseny de la web        |
-| JavaScript | Interactivitat           |
-| MySQL      | Guardar les dades        |
+| Mdown      | Disseny de la web        |
+| Mkdocks    | Interactivitat           |
+| github     | Guardar les dades        |
 
 !!! info "Nota"
     No cal entendre aquestes tecnologies per a utilitzar l'aplicació.
