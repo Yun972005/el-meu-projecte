@@ -3,7 +3,7 @@
 ## Origen de la idea
 
 PlantCare va nàixer com a **projecte intermodular** del cicle formatiu de
-*Desenvolupament d'Aplicacions Multimedia*. L'objectiu era resoldre un problema real
+*Desenvolupament d'Aplicacions Multiplataforma*. L'objectiu era resoldre un problema real
 i quotidià.
 
 ## Objectius
@@ -14,11 +14,11 @@ i quotidià.
 
 ## Tecnologies utilitzades
 
-| Tecnologia | Per a què serveix        |
-|------------|--------------------------|
-| Mdown      | Disseny de la web        |
-| Mkdocks    | Interactivitat           |
-| github     | Guardar les dades        |
+| Tecnologia     | Per a què serveix                          |
+|----------------|--------------------------------------------|
+| Markdown       | Escriure el contingut de les pàgines       |
+| MkDocs Material| Convertir el contingut en una web          |
+| GitHub         | Control de versions i publicació (Pages)   |
 
 !!! info "Nota"
     No cal entendre aquestes tecnologies per a utilitzar l'aplicació.
